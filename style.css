@@ -18,3 +18,7 @@ section {
   border: solid black 10px;
   border-radius: 15px;
 }
+
+#name {
+  color: blue
+}

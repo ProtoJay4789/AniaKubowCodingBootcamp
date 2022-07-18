@@ -1,0 +1,12 @@
+body {
+  background-color: cadetblue;
+}
+
+.child {
+  display: flex;
+  flex-direction: flex-end;
+  background-color: lightcoral;
+  width: 200px;
+  height: 100px;
+  border-radius: 20px;
+}

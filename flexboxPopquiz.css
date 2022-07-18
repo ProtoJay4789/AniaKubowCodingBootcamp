@@ -1,11 +1,10 @@
 body {
   background-color: cadetblue;
   display: flex;
-  flex-direction: flex-end;
+  justify-content: flex-end;
 }
 
 .child {
- 
   background-color: lightcoral;
   width: 200px;
   height: 100px;

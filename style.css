@@ -1,18 +1,20 @@
-.header {
+header {
   width: 50px;
   height: 50px;
   background-color: green;
 }
 
-.section {
+section {
   width: 300px;
-  height: 200px;
-  background-color: red;
+  height: 100px;
+  background-color: blue;
+  display: flex;
+  flex-direction: row;
 }
 
 .about-me {
   width: 300px;
-  height: 100px;
+  height: 300px;
   background-color: rgb(177, 69, 21, 0.5);
   margin: 10px;
   border: solid black 10px;
@@ -24,5 +26,12 @@
   border-radius: 50px;
 }
 #name {
-  color: blue;
+  color: red;
+}
+
+.test {
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin: 5px;
 }
